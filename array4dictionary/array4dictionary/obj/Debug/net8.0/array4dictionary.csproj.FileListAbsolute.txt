@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\bin\Debug\net8.0\array4dictionary.exe
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\bin\Debug\net8.0\array4dictionary.deps.json
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\bin\Debug\net8.0\array4dictionary.runtimeconfig.json
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\bin\Debug\net8.0\array4dictionary.dll
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\bin\Debug\net8.0\array4dictionary.pdb
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\array4dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\array4dictionary.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\array4dictionary.AssemblyInfo.cs
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\array4dictionary.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\array4dictionary.dll
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\refint\array4dictionary.dll
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\array4dictionary.pdb
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\array4dictionary.genruntimeconfig.cache
+C:\Users\noam1\source\repos\array4dictionary\array4dictionary\obj\Debug\net8.0\ref\array4dictionary.dll
