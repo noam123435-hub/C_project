@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\consCorse\consCorse\bin\Debug\net8.0\consCorse.exe
+C:\Users\noam1\source\repos\consCorse\consCorse\bin\Debug\net8.0\consCorse.deps.json
+C:\Users\noam1\source\repos\consCorse\consCorse\bin\Debug\net8.0\consCorse.runtimeconfig.json
+C:\Users\noam1\source\repos\consCorse\consCorse\bin\Debug\net8.0\consCorse.dll
+C:\Users\noam1\source\repos\consCorse\consCorse\bin\Debug\net8.0\consCorse.pdb
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\consCorse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\consCorse.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\consCorse.AssemblyInfo.cs
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\consCorse.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\consCorse.dll
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\refint\consCorse.dll
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\consCorse.pdb
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\consCorse.genruntimeconfig.cache
+C:\Users\noam1\source\repos\consCorse\consCorse\obj\Debug\net8.0\ref\consCorse.dll
