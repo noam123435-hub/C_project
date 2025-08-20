@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\First\First\bin\Debug\net8.0\First.exe
+C:\Users\noam1\source\repos\First\First\bin\Debug\net8.0\First.deps.json
+C:\Users\noam1\source\repos\First\First\bin\Debug\net8.0\First.runtimeconfig.json
+C:\Users\noam1\source\repos\First\First\bin\Debug\net8.0\First.dll
+C:\Users\noam1\source\repos\First\First\bin\Debug\net8.0\First.pdb
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\First.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\First.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\First.AssemblyInfo.cs
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\First.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\First.dll
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\refint\First.dll
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\First.pdb
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\First.genruntimeconfig.cache
+C:\Users\noam1\source\repos\First\First\obj\Debug\net8.0\ref\First.dll
