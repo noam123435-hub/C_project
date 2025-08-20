@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\DetToHex\DetToHex\bin\Debug\net8.0\DetToHex.exe
+C:\Users\noam1\source\repos\DetToHex\DetToHex\bin\Debug\net8.0\DetToHex.deps.json
+C:\Users\noam1\source\repos\DetToHex\DetToHex\bin\Debug\net8.0\DetToHex.runtimeconfig.json
+C:\Users\noam1\source\repos\DetToHex\DetToHex\bin\Debug\net8.0\DetToHex.dll
+C:\Users\noam1\source\repos\DetToHex\DetToHex\bin\Debug\net8.0\DetToHex.pdb
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\DetToHex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\DetToHex.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\DetToHex.AssemblyInfo.cs
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\DetToHex.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\DetToHex.dll
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\refint\DetToHex.dll
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\DetToHex.pdb
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\DetToHex.genruntimeconfig.cache
+C:\Users\noam1\source\repos\DetToHex\DetToHex\obj\Debug\net8.0\ref\DetToHex.dll
