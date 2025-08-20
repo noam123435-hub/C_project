@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\bin\Debug\net8.0\2D_Checkers.exe
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\bin\Debug\net8.0\2D_Checkers.deps.json
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\bin\Debug\net8.0\2D_Checkers.runtimeconfig.json
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\bin\Debug\net8.0\2D_Checkers.dll
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\bin\Debug\net8.0\2D_Checkers.pdb
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\2D_Checkers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\2D_Checkers.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\2D_Checkers.AssemblyInfo.cs
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\2D_Checkers.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\2D_Checkers.dll
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\refint\2D_Checkers.dll
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\2D_Checkers.pdb
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\2D_Checkers.genruntimeconfig.cache
+C:\Users\noam1\source\repos\2D_Checkers\2D_Checkers\obj\Debug\net8.0\ref\2D_Checkers.dll

@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\bin\Debug\net8.0\Args_multiply.exe
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\bin\Debug\net8.0\Args_multiply.deps.json
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\bin\Debug\net8.0\Args_multiply.runtimeconfig.json
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\bin\Debug\net8.0\Args_multiply.dll
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\bin\Debug\net8.0\Args_multiply.pdb
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\Args_multiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\Args_multiply.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\Args_multiply.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\Args_multiply.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\Args_multiply.dll
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\refint\Args_multiply.dll
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\Args_multiply.pdb
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\Args_multiply.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Args_multiply\Args_multiply\obj\Debug\net8.0\ref\Args_multiply.dll

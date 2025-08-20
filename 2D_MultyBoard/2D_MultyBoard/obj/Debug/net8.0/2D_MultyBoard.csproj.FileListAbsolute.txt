@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\2D_MultyBoard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\2D_MultyBoard.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\2D_MultyBoard.AssemblyInfo.cs
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\2D_MultyBoard.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\bin\Debug\net8.0\2D_MultyBoard.exe
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\bin\Debug\net8.0\2D_MultyBoard.deps.json
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\bin\Debug\net8.0\2D_MultyBoard.runtimeconfig.json
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\bin\Debug\net8.0\2D_MultyBoard.dll
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\bin\Debug\net8.0\2D_MultyBoard.pdb
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\2D_MultyBoard.dll
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\refint\2D_MultyBoard.dll
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\2D_MultyBoard.pdb
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\2D_MultyBoard.genruntimeconfig.cache
+C:\Users\noam1\source\repos\2D_MultyBoard\2D_MultyBoard\obj\Debug\net8.0\ref\2D_MultyBoard.dll
