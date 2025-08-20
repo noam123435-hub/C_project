@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\assignment4\assignment4\bin\Debug\net8.0\assignment4.exe
+C:\Users\noam1\source\repos\assignment4\assignment4\bin\Debug\net8.0\assignment4.deps.json
+C:\Users\noam1\source\repos\assignment4\assignment4\bin\Debug\net8.0\assignment4.runtimeconfig.json
+C:\Users\noam1\source\repos\assignment4\assignment4\bin\Debug\net8.0\assignment4.dll
+C:\Users\noam1\source\repos\assignment4\assignment4\bin\Debug\net8.0\assignment4.pdb
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\assignment4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\assignment4.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\assignment4.AssemblyInfo.cs
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\assignment4.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\assignment4.dll
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\refint\assignment4.dll
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\assignment4.pdb
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\assignment4.genruntimeconfig.cache
+C:\Users\noam1\source\repos\assignment4\assignment4\obj\Debug\net8.0\ref\assignment4.dll
