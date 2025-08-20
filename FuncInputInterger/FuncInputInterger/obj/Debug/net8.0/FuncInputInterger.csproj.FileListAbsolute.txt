@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\bin\Debug\net8.0\FuncInputInterger.exe
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\bin\Debug\net8.0\FuncInputInterger.deps.json
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\bin\Debug\net8.0\FuncInputInterger.runtimeconfig.json
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\bin\Debug\net8.0\FuncInputInterger.dll
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\bin\Debug\net8.0\FuncInputInterger.pdb
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\FuncInputInterger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\FuncInputInterger.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\FuncInputInterger.AssemblyInfo.cs
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\FuncInputInterger.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\FuncInputInterger.dll
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\refint\FuncInputInterger.dll
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\FuncInputInterger.pdb
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\FuncInputInterger.genruntimeconfig.cache
+C:\Users\noam1\source\repos\FuncInputInterger\FuncInputInterger\obj\Debug\net8.0\ref\FuncInputInterger.dll

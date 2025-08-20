@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\bin\Debug\net8.0\FuncNoscha.exe
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\bin\Debug\net8.0\FuncNoscha.deps.json
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\bin\Debug\net8.0\FuncNoscha.runtimeconfig.json
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\bin\Debug\net8.0\FuncNoscha.dll
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\bin\Debug\net8.0\FuncNoscha.pdb
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\FuncNoscha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\FuncNoscha.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\FuncNoscha.AssemblyInfo.cs
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\FuncNoscha.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\FuncNoscha.dll
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\refint\FuncNoscha.dll
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\FuncNoscha.pdb
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\FuncNoscha.genruntimeconfig.cache
+C:\Users\noam1\source\repos\FuncNoscha\FuncNoscha\obj\Debug\net8.0\ref\FuncNoscha.dll
