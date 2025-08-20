@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\CastingSum\CastingSum\bin\Debug\net8.0\CastingSum.exe
+C:\Users\noam1\source\repos\CastingSum\CastingSum\bin\Debug\net8.0\CastingSum.deps.json
+C:\Users\noam1\source\repos\CastingSum\CastingSum\bin\Debug\net8.0\CastingSum.runtimeconfig.json
+C:\Users\noam1\source\repos\CastingSum\CastingSum\bin\Debug\net8.0\CastingSum.dll
+C:\Users\noam1\source\repos\CastingSum\CastingSum\bin\Debug\net8.0\CastingSum.pdb
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\CastingSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\CastingSum.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\CastingSum.AssemblyInfo.cs
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\CastingSum.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\CastingSum.dll
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\refint\CastingSum.dll
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\CastingSum.pdb
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\CastingSum.genruntimeconfig.cache
+C:\Users\noam1\source\repos\CastingSum\CastingSum\obj\Debug\net8.0\ref\CastingSum.dll

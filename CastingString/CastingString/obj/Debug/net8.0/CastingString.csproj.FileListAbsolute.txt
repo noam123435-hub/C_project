@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\CastingString\CastingString\bin\Debug\net8.0\CastingString.exe
+C:\Users\noam1\source\repos\CastingString\CastingString\bin\Debug\net8.0\CastingString.deps.json
+C:\Users\noam1\source\repos\CastingString\CastingString\bin\Debug\net8.0\CastingString.runtimeconfig.json
+C:\Users\noam1\source\repos\CastingString\CastingString\bin\Debug\net8.0\CastingString.dll
+C:\Users\noam1\source\repos\CastingString\CastingString\bin\Debug\net8.0\CastingString.pdb
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\CastingString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\CastingString.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\CastingString.AssemblyInfo.cs
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\CastingString.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\CastingString.dll
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\refint\CastingString.dll
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\CastingString.pdb
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\CastingString.genruntimeconfig.cache
+C:\Users\noam1\source\repos\CastingString\CastingString\obj\Debug\net8.0\ref\CastingString.dll
