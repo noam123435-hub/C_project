@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\constCom\constCom\bin\Debug\net8.0\constCom.exe
+C:\Users\noam1\source\repos\constCom\constCom\bin\Debug\net8.0\constCom.deps.json
+C:\Users\noam1\source\repos\constCom\constCom\bin\Debug\net8.0\constCom.runtimeconfig.json
+C:\Users\noam1\source\repos\constCom\constCom\bin\Debug\net8.0\constCom.dll
+C:\Users\noam1\source\repos\constCom\constCom\bin\Debug\net8.0\constCom.pdb
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\constCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\constCom.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\constCom.AssemblyInfo.cs
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\constCom.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\constCom.dll
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\refint\constCom.dll
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\constCom.pdb
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\constCom.genruntimeconfig.cache
+C:\Users\noam1\source\repos\constCom\constCom\obj\Debug\net8.0\ref\constCom.dll
