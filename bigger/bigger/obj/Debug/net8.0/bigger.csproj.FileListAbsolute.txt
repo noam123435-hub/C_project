@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\bigger\bigger\bin\Debug\net8.0\bigger.exe
+C:\Users\noam1\source\repos\bigger\bigger\bin\Debug\net8.0\bigger.deps.json
+C:\Users\noam1\source\repos\bigger\bigger\bin\Debug\net8.0\bigger.runtimeconfig.json
+C:\Users\noam1\source\repos\bigger\bigger\bin\Debug\net8.0\bigger.dll
+C:\Users\noam1\source\repos\bigger\bigger\bin\Debug\net8.0\bigger.pdb
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\bigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\bigger.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\bigger.AssemblyInfo.cs
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\bigger.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\bigger.dll
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\refint\bigger.dll
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\bigger.pdb
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\bigger.genruntimeconfig.cache
+C:\Users\noam1\source\repos\bigger\bigger\obj\Debug\net8.0\ref\bigger.dll
