@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\bin\Debug\net8.0\ClassObjUmbrella.exe
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\bin\Debug\net8.0\ClassObjUmbrella.deps.json
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\bin\Debug\net8.0\ClassObjUmbrella.runtimeconfig.json
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\bin\Debug\net8.0\ClassObjUmbrella.dll
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\bin\Debug\net8.0\ClassObjUmbrella.pdb
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ClassObjUmbrella.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ClassObjUmbrella.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ClassObjUmbrella.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ClassObjUmbrella.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ClassObjUmbrella.dll
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\refint\ClassObjUmbrella.dll
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ClassObjUmbrella.pdb
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ClassObjUmbrella.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ClassObjUmbrella\ClassObjUmbrella\obj\Debug\net8.0\ref\ClassObjUmbrella.dll

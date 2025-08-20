@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\char.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\char.AssemblyInfo.cs
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\char.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\char\char\bin\Debug\net8.0\char.exe
+C:\Users\noam1\source\repos\char\char\bin\Debug\net8.0\char.deps.json
+C:\Users\noam1\source\repos\char\char\bin\Debug\net8.0\char.runtimeconfig.json
+C:\Users\noam1\source\repos\char\char\bin\Debug\net8.0\char.dll
+C:\Users\noam1\source\repos\char\char\bin\Debug\net8.0\char.pdb
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\char.dll
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\refint\char.dll
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\char.pdb
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\char.genruntimeconfig.cache
+C:\Users\noam1\source\repos\char\char\obj\Debug\net8.0\ref\char.dll

@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\chek\chek\bin\Debug\net8.0\chek.exe
+C:\Users\noam1\source\repos\chek\chek\bin\Debug\net8.0\chek.deps.json
+C:\Users\noam1\source\repos\chek\chek\bin\Debug\net8.0\chek.runtimeconfig.json
+C:\Users\noam1\source\repos\chek\chek\bin\Debug\net8.0\chek.dll
+C:\Users\noam1\source\repos\chek\chek\bin\Debug\net8.0\chek.pdb
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\chek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\chek.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\chek.AssemblyInfo.cs
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\chek.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\chek.dll
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\refint\chek.dll
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\chek.pdb
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\chek.genruntimeconfig.cache
+C:\Users\noam1\source\repos\chek\chek\obj\Debug\net8.0\ref\chek.dll
