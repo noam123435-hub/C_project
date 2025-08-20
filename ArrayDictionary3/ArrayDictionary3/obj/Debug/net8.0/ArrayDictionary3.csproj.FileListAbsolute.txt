@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ArrayDictionary3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ArrayDictionary3.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ArrayDictionary3.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ArrayDictionary3.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\bin\Debug\net8.0\ArrayDictionary3.exe
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\bin\Debug\net8.0\ArrayDictionary3.deps.json
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\bin\Debug\net8.0\ArrayDictionary3.runtimeconfig.json
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\bin\Debug\net8.0\ArrayDictionary3.dll
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\bin\Debug\net8.0\ArrayDictionary3.pdb
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ArrayDictionary3.dll
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\refint\ArrayDictionary3.dll
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ArrayDictionary3.pdb
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ArrayDictionary3.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ArrayDictionary3\ArrayDictionary3\obj\Debug\net8.0\ref\ArrayDictionary3.dll

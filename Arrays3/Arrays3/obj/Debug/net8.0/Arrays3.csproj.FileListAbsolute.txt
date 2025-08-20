@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Arrays3\Arrays3\bin\Debug\net8.0\Arrays3.exe
+C:\Users\noam1\source\repos\Arrays3\Arrays3\bin\Debug\net8.0\Arrays3.deps.json
+C:\Users\noam1\source\repos\Arrays3\Arrays3\bin\Debug\net8.0\Arrays3.runtimeconfig.json
+C:\Users\noam1\source\repos\Arrays3\Arrays3\bin\Debug\net8.0\Arrays3.dll
+C:\Users\noam1\source\repos\Arrays3\Arrays3\bin\Debug\net8.0\Arrays3.pdb
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\Arrays3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\Arrays3.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\Arrays3.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\Arrays3.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\Arrays3.dll
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\refint\Arrays3.dll
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\Arrays3.pdb
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\Arrays3.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Arrays3\Arrays3\obj\Debug\net8.0\ref\Arrays3.dll
