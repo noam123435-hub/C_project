@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\divide3\divide3\bin\Debug\net8.0\divide3.exe
+C:\Users\noam1\source\repos\divide3\divide3\bin\Debug\net8.0\divide3.deps.json
+C:\Users\noam1\source\repos\divide3\divide3\bin\Debug\net8.0\divide3.runtimeconfig.json
+C:\Users\noam1\source\repos\divide3\divide3\bin\Debug\net8.0\divide3.dll
+C:\Users\noam1\source\repos\divide3\divide3\bin\Debug\net8.0\divide3.pdb
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\divide3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\divide3.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\divide3.AssemblyInfo.cs
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\divide3.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\divide3.dll
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\refint\divide3.dll
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\divide3.pdb
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\divide3.genruntimeconfig.cache
+C:\Users\noam1\source\repos\divide3\divide3\obj\Debug\net8.0\ref\divide3.dll

@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\diet\diet\bin\Debug\net8.0\diet.exe
+C:\Users\noam1\source\repos\diet\diet\bin\Debug\net8.0\diet.deps.json
+C:\Users\noam1\source\repos\diet\diet\bin\Debug\net8.0\diet.runtimeconfig.json
+C:\Users\noam1\source\repos\diet\diet\bin\Debug\net8.0\diet.dll
+C:\Users\noam1\source\repos\diet\diet\bin\Debug\net8.0\diet.pdb
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\diet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\diet.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\diet.AssemblyInfo.cs
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\diet.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\diet.dll
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\refint\diet.dll
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\diet.pdb
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\diet.genruntimeconfig.cache
+C:\Users\noam1\source\repos\diet\diet\obj\Debug\net8.0\ref\diet.dll

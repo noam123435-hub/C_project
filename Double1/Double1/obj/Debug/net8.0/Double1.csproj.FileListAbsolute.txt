@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Double1\Double1\bin\Debug\net8.0\Double1.exe
+C:\Users\noam1\source\repos\Double1\Double1\bin\Debug\net8.0\Double1.deps.json
+C:\Users\noam1\source\repos\Double1\Double1\bin\Debug\net8.0\Double1.runtimeconfig.json
+C:\Users\noam1\source\repos\Double1\Double1\bin\Debug\net8.0\Double1.dll
+C:\Users\noam1\source\repos\Double1\Double1\bin\Debug\net8.0\Double1.pdb
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\Double1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\Double1.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\Double1.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\Double1.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\Double1.dll
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\refint\Double1.dll
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\Double1.pdb
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\Double1.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Double1\Double1\obj\Debug\net8.0\ref\Double1.dll
