@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Double1.2\Double1.2\bin\Debug\net8.0\Double1.2.exe
+C:\Users\noam1\source\repos\Double1.2\Double1.2\bin\Debug\net8.0\Double1.2.deps.json
+C:\Users\noam1\source\repos\Double1.2\Double1.2\bin\Debug\net8.0\Double1.2.runtimeconfig.json
+C:\Users\noam1\source\repos\Double1.2\Double1.2\bin\Debug\net8.0\Double1.2.dll
+C:\Users\noam1\source\repos\Double1.2\Double1.2\bin\Debug\net8.0\Double1.2.pdb
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\Double1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\Double1.2.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\Double1.2.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\Double1.2.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\Double1.2.dll
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\refint\Double1.2.dll
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\Double1.2.pdb
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\Double1.2.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Double1.2\Double1.2\obj\Debug\net8.0\ref\Double1.2.dll

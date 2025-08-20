@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\doublenumber\doublenumber\bin\Debug\net8.0\doublenumber.exe
+C:\Users\noam1\source\repos\doublenumber\doublenumber\bin\Debug\net8.0\doublenumber.deps.json
+C:\Users\noam1\source\repos\doublenumber\doublenumber\bin\Debug\net8.0\doublenumber.runtimeconfig.json
+C:\Users\noam1\source\repos\doublenumber\doublenumber\bin\Debug\net8.0\doublenumber.dll
+C:\Users\noam1\source\repos\doublenumber\doublenumber\bin\Debug\net8.0\doublenumber.pdb
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\doublenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\doublenumber.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\doublenumber.AssemblyInfo.cs
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\doublenumber.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\doublenumber.dll
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\refint\doublenumber.dll
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\doublenumber.pdb
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\doublenumber.genruntimeconfig.cache
+C:\Users\noam1\source\repos\doublenumber\doublenumber\obj\Debug\net8.0\ref\doublenumber.dll
