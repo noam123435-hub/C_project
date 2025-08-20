@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\bin\Debug\net8.0\Args_Numbers.exe
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\bin\Debug\net8.0\Args_Numbers.deps.json
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\bin\Debug\net8.0\Args_Numbers.runtimeconfig.json
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\bin\Debug\net8.0\Args_Numbers.dll
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\bin\Debug\net8.0\Args_Numbers.pdb
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\Args_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\Args_Numbers.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\Args_Numbers.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\Args_Numbers.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\Args_Numbers.dll
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\refint\Args_Numbers.dll
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\Args_Numbers.pdb
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\Args_Numbers.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Args_Numbers\Args_Numbers\obj\Debug\net8.0\ref\Args_Numbers.dll
