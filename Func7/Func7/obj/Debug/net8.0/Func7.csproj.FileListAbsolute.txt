@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Func7\Func7\bin\Debug\net8.0\Func7.exe
+C:\Users\noam1\source\repos\Func7\Func7\bin\Debug\net8.0\Func7.deps.json
+C:\Users\noam1\source\repos\Func7\Func7\bin\Debug\net8.0\Func7.runtimeconfig.json
+C:\Users\noam1\source\repos\Func7\Func7\bin\Debug\net8.0\Func7.dll
+C:\Users\noam1\source\repos\Func7\Func7\bin\Debug\net8.0\Func7.pdb
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\Func7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\Func7.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\Func7.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\Func7.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\Func7.dll
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\refint\Func7.dll
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\Func7.pdb
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\Func7.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Func7\Func7\obj\Debug\net8.0\ref\Func7.dll
