@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\bin\Debug\net8.0\FuncBMI.exe
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\bin\Debug\net8.0\FuncBMI.deps.json
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\bin\Debug\net8.0\FuncBMI.runtimeconfig.json
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\bin\Debug\net8.0\FuncBMI.dll
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\bin\Debug\net8.0\FuncBMI.pdb
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\FuncBMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\FuncBMI.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\FuncBMI.AssemblyInfo.cs
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\FuncBMI.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\FuncBMI.dll
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\refint\FuncBMI.dll
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\FuncBMI.pdb
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\FuncBMI.genruntimeconfig.cache
+C:\Users\noam1\source\repos\FuncBMI\FuncBMI\obj\Debug\net8.0\ref\FuncBMI.dll
