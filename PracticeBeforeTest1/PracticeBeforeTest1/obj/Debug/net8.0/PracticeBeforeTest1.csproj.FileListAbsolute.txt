@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\PracticeBeforeTest1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\PracticeBeforeTest1.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\PracticeBeforeTest1.AssemblyInfo.cs
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\PracticeBeforeTest1.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\bin\Debug\net8.0\PracticeBeforeTest1.exe
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\bin\Debug\net8.0\PracticeBeforeTest1.deps.json
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\bin\Debug\net8.0\PracticeBeforeTest1.runtimeconfig.json
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\bin\Debug\net8.0\PracticeBeforeTest1.dll
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\bin\Debug\net8.0\PracticeBeforeTest1.pdb
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\PracticeBeforeTest1.dll
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\refint\PracticeBeforeTest1.dll
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\PracticeBeforeTest1.pdb
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\PracticeBeforeTest1.genruntimeconfig.cache
+C:\Users\noam1\source\repos\PracticeBeforeTest1\PracticeBeforeTest1\obj\Debug\net8.0\ref\PracticeBeforeTest1.dll
