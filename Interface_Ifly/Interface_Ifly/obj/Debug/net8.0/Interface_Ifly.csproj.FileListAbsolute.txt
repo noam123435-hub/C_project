@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\bin\Debug\net8.0\Interface_Ifly.exe
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\bin\Debug\net8.0\Interface_Ifly.deps.json
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\bin\Debug\net8.0\Interface_Ifly.runtimeconfig.json
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\bin\Debug\net8.0\Interface_Ifly.dll
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\bin\Debug\net8.0\Interface_Ifly.pdb
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\Interface_Ifly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\Interface_Ifly.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\Interface_Ifly.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\Interface_Ifly.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\Interface_Ifly.dll
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\refint\Interface_Ifly.dll
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\Interface_Ifly.pdb
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\Interface_Ifly.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Interface_Ifly\Interface_Ifly\obj\Debug\net8.0\ref\Interface_Ifly.dll

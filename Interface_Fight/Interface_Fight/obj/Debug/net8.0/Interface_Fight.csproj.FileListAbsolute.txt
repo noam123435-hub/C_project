@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\bin\Debug\net8.0\Interface_Fight.exe
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\bin\Debug\net8.0\Interface_Fight.deps.json
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\bin\Debug\net8.0\Interface_Fight.runtimeconfig.json
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\bin\Debug\net8.0\Interface_Fight.dll
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\bin\Debug\net8.0\Interface_Fight.pdb
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\Interface_Fight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\Interface_Fight.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\Interface_Fight.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\Interface_Fight.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\Interface_Fight.dll
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\refint\Interface_Fight.dll
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\Interface_Fight.pdb
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\Interface_Fight.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Interface_Fight\Interface_Fight\obj\Debug\net8.0\ref\Interface_Fight.dll

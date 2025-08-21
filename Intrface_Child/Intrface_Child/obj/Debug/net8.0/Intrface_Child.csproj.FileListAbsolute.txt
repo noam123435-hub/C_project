@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\bin\Debug\net8.0\Intrface_Child.exe
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\bin\Debug\net8.0\Intrface_Child.deps.json
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\bin\Debug\net8.0\Intrface_Child.runtimeconfig.json
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\bin\Debug\net8.0\Intrface_Child.dll
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\bin\Debug\net8.0\Intrface_Child.pdb
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\Intrface_Child.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\Intrface_Child.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\Intrface_Child.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\Intrface_Child.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\Intrface_Child.dll
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\refint\Intrface_Child.dll
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\Intrface_Child.pdb
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\Intrface_Child.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Intrface_Child\Intrface_Child\obj\Debug\net8.0\ref\Intrface_Child.dll
