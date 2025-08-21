@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\string2\string2\bin\Debug\net8.0\string2.exe
+C:\Users\noam1\source\repos\string2\string2\bin\Debug\net8.0\string2.deps.json
+C:\Users\noam1\source\repos\string2\string2\bin\Debug\net8.0\string2.runtimeconfig.json
+C:\Users\noam1\source\repos\string2\string2\bin\Debug\net8.0\string2.dll
+C:\Users\noam1\source\repos\string2\string2\bin\Debug\net8.0\string2.pdb
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\string2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\string2.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\string2.AssemblyInfo.cs
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\string2.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\string2.dll
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\refint\string2.dll
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\string2.pdb
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\string2.genruntimeconfig.cache
+C:\Users\noam1\source\repos\string2\string2\obj\Debug\net8.0\ref\string2.dll
