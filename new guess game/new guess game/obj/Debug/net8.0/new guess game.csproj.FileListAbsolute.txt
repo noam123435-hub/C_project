@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\new guess game\new guess game\bin\Debug\net8.0\new guess game.exe
+C:\Users\noam1\source\repos\new guess game\new guess game\bin\Debug\net8.0\new guess game.deps.json
+C:\Users\noam1\source\repos\new guess game\new guess game\bin\Debug\net8.0\new guess game.runtimeconfig.json
+C:\Users\noam1\source\repos\new guess game\new guess game\bin\Debug\net8.0\new guess game.dll
+C:\Users\noam1\source\repos\new guess game\new guess game\bin\Debug\net8.0\new guess game.pdb
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\new guess game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\new guess game.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\new guess game.AssemblyInfo.cs
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\new guess game.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\new guess game.dll
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\refint\new guess game.dll
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\new guess game.pdb
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\new guess game.genruntimeconfig.cache
+C:\Users\noam1\source\repos\new guess game\new guess game\obj\Debug\net8.0\ref\new guess game.dll

@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\melay\melay\bin\Debug\net8.0\melay.exe
+C:\Users\noam1\source\repos\melay\melay\bin\Debug\net8.0\melay.deps.json
+C:\Users\noam1\source\repos\melay\melay\bin\Debug\net8.0\melay.runtimeconfig.json
+C:\Users\noam1\source\repos\melay\melay\bin\Debug\net8.0\melay.dll
+C:\Users\noam1\source\repos\melay\melay\bin\Debug\net8.0\melay.pdb
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\melay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\melay.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\melay.AssemblyInfo.cs
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\melay.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\melay.dll
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\refint\melay.dll
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\melay.pdb
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\melay.genruntimeconfig.cache
+C:\Users\noam1\source\repos\melay\melay\obj\Debug\net8.0\ref\melay.dll
