@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\if3\if3\bin\Debug\net8.0\if3.exe
+C:\Users\noam1\source\repos\if3\if3\bin\Debug\net8.0\if3.deps.json
+C:\Users\noam1\source\repos\if3\if3\bin\Debug\net8.0\if3.runtimeconfig.json
+C:\Users\noam1\source\repos\if3\if3\bin\Debug\net8.0\if3.dll
+C:\Users\noam1\source\repos\if3\if3\bin\Debug\net8.0\if3.pdb
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\if3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\if3.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\if3.AssemblyInfo.cs
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\if3.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\if3.dll
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\refint\if3.dll
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\if3.pdb
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\if3.genruntimeconfig.cache
+C:\Users\noam1\source\repos\if3\if3\obj\Debug\net8.0\ref\if3.dll

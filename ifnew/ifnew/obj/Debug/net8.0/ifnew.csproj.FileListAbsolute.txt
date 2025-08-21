@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ifnew\ifnew\bin\Debug\net8.0\ifnew.exe
+C:\Users\noam1\source\repos\ifnew\ifnew\bin\Debug\net8.0\ifnew.deps.json
+C:\Users\noam1\source\repos\ifnew\ifnew\bin\Debug\net8.0\ifnew.runtimeconfig.json
+C:\Users\noam1\source\repos\ifnew\ifnew\bin\Debug\net8.0\ifnew.dll
+C:\Users\noam1\source\repos\ifnew\ifnew\bin\Debug\net8.0\ifnew.pdb
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ifnew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ifnew.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ifnew.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ifnew.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ifnew.dll
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\refint\ifnew.dll
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ifnew.pdb
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ifnew.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ifnew\ifnew\obj\Debug\net8.0\ref\ifnew.dll
