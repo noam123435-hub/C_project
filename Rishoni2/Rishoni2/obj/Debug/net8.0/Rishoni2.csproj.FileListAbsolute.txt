@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\bin\Debug\net8.0\Rishoni2.exe
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\bin\Debug\net8.0\Rishoni2.deps.json
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\bin\Debug\net8.0\Rishoni2.runtimeconfig.json
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\bin\Debug\net8.0\Rishoni2.dll
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\bin\Debug\net8.0\Rishoni2.pdb
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\Rishoni2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\Rishoni2.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\Rishoni2.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\Rishoni2.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\Rishoni2.dll
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\refint\Rishoni2.dll
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\Rishoni2.pdb
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\Rishoni2.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Rishoni2\Rishoni2\obj\Debug\net8.0\ref\Rishoni2.dll

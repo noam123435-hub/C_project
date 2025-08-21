@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\rishoni\rishoni\bin\Debug\net8.0\rishoni.exe
+C:\Users\noam1\source\repos\rishoni\rishoni\bin\Debug\net8.0\rishoni.deps.json
+C:\Users\noam1\source\repos\rishoni\rishoni\bin\Debug\net8.0\rishoni.runtimeconfig.json
+C:\Users\noam1\source\repos\rishoni\rishoni\bin\Debug\net8.0\rishoni.dll
+C:\Users\noam1\source\repos\rishoni\rishoni\bin\Debug\net8.0\rishoni.pdb
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\rishoni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\rishoni.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\rishoni.AssemblyInfo.cs
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\rishoni.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\rishoni.dll
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\refint\rishoni.dll
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\rishoni.pdb
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\rishoni.genruntimeconfig.cache
+C:\Users\noam1\source\repos\rishoni\rishoni\obj\Debug\net8.0\ref\rishoni.dll
