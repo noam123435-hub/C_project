@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "String_Method": {
+      "commandName": "Project",
+      "commandLineArgs": "this is it"
+    }
+  }
+}

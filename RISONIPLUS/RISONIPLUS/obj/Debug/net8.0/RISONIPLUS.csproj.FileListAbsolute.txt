@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\bin\Debug\net8.0\RISONIPLUS.exe
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\bin\Debug\net8.0\RISONIPLUS.deps.json
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\bin\Debug\net8.0\RISONIPLUS.runtimeconfig.json
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\bin\Debug\net8.0\RISONIPLUS.dll
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\bin\Debug\net8.0\RISONIPLUS.pdb
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\RISONIPLUS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\RISONIPLUS.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\RISONIPLUS.AssemblyInfo.cs
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\RISONIPLUS.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\RISONIPLUS.dll
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\refint\RISONIPLUS.dll
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\RISONIPLUS.pdb
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\RISONIPLUS.genruntimeconfig.cache
+C:\Users\noam1\source\repos\RISONIPLUS\RISONIPLUS\obj\Debug\net8.0\ref\RISONIPLUS.dll
