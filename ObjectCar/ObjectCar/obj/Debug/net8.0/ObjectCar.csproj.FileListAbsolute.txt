@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\bin\Debug\net8.0\ObjectCar.exe
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\bin\Debug\net8.0\ObjectCar.deps.json
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\bin\Debug\net8.0\ObjectCar.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\bin\Debug\net8.0\ObjectCar.dll
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\bin\Debug\net8.0\ObjectCar.pdb
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ObjectCar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ObjectCar.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ObjectCar.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ObjectCar.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ObjectCar.dll
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\refint\ObjectCar.dll
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ObjectCar.pdb
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ObjectCar.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectCar\ObjectCar\obj\Debug\net8.0\ref\ObjectCar.dll

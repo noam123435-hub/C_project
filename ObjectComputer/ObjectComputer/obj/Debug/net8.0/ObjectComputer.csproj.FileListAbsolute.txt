@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\bin\Debug\net8.0\ObjectComputer.exe
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\bin\Debug\net8.0\ObjectComputer.deps.json
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\bin\Debug\net8.0\ObjectComputer.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\bin\Debug\net8.0\ObjectComputer.dll
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\bin\Debug\net8.0\ObjectComputer.pdb
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ObjectComputer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ObjectComputer.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ObjectComputer.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ObjectComputer.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ObjectComputer.dll
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\refint\ObjectComputer.dll
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ObjectComputer.pdb
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ObjectComputer.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectComputer\ObjectComputer\obj\Debug\net8.0\ref\ObjectComputer.dll

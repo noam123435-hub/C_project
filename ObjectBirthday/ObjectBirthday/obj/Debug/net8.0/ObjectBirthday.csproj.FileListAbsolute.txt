@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\bin\Debug\net8.0\ObjectBirthday.exe
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\bin\Debug\net8.0\ObjectBirthday.deps.json
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\bin\Debug\net8.0\ObjectBirthday.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\bin\Debug\net8.0\ObjectBirthday.dll
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\bin\Debug\net8.0\ObjectBirthday.pdb
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ObjectBirthday.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ObjectBirthday.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ObjectBirthday.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ObjectBirthday.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ObjectBirthday.dll
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\refint\ObjectBirthday.dll
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ObjectBirthday.pdb
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ObjectBirthday.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectBirthday\ObjectBirthday\obj\Debug\net8.0\ref\ObjectBirthday.dll
