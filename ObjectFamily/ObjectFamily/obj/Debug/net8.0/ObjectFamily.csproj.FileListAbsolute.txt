@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\bin\Debug\net8.0\ObjectFamily.exe
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\bin\Debug\net8.0\ObjectFamily.deps.json
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\bin\Debug\net8.0\ObjectFamily.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\bin\Debug\net8.0\ObjectFamily.dll
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\bin\Debug\net8.0\ObjectFamily.pdb
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ObjectFamily.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ObjectFamily.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ObjectFamily.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ObjectFamily.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ObjectFamily.dll
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\refint\ObjectFamily.dll
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ObjectFamily.pdb
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ObjectFamily.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectFamily\ObjectFamily\obj\Debug\net8.0\ref\ObjectFamily.dll

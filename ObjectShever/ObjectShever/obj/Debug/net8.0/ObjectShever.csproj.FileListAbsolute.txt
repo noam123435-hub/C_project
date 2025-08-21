@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\bin\Debug\net8.0\ObjectShever.exe
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\bin\Debug\net8.0\ObjectShever.deps.json
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\bin\Debug\net8.0\ObjectShever.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\bin\Debug\net8.0\ObjectShever.dll
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\bin\Debug\net8.0\ObjectShever.pdb
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ObjectShever.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ObjectShever.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ObjectShever.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ObjectShever.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ObjectShever.dll
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\refint\ObjectShever.dll
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ObjectShever.pdb
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ObjectShever.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectShever\ObjectShever\obj\Debug\net8.0\ref\ObjectShever.dll

@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\bin\Debug\net8.0\ObjectFood.exe
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\bin\Debug\net8.0\ObjectFood.deps.json
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\bin\Debug\net8.0\ObjectFood.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\bin\Debug\net8.0\ObjectFood.dll
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\bin\Debug\net8.0\ObjectFood.pdb
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ObjectFood.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ObjectFood.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ObjectFood.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ObjectFood.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ObjectFood.dll
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\refint\ObjectFood.dll
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ObjectFood.pdb
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ObjectFood.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectFood\ObjectFood\obj\Debug\net8.0\ref\ObjectFood.dll
