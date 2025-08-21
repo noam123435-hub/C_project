@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\bin\Debug\net8.0\Hersmartphone.exe
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\bin\Debug\net8.0\Hersmartphone.deps.json
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\bin\Debug\net8.0\Hersmartphone.runtimeconfig.json
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\bin\Debug\net8.0\Hersmartphone.dll
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\bin\Debug\net8.0\Hersmartphone.pdb
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\Hersmartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\Hersmartphone.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\Hersmartphone.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\Hersmartphone.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\Hersmartphone.dll
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\refint\Hersmartphone.dll
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\Hersmartphone.pdb
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\Hersmartphone.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Hersmartphone\Hersmartphone\obj\Debug\net8.0\ref\Hersmartphone.dll

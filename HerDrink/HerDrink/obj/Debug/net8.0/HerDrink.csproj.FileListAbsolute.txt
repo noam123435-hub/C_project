@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\HerDrink\HerDrink\bin\Debug\net8.0\HerDrink.exe
+C:\Users\noam1\source\repos\HerDrink\HerDrink\bin\Debug\net8.0\HerDrink.deps.json
+C:\Users\noam1\source\repos\HerDrink\HerDrink\bin\Debug\net8.0\HerDrink.runtimeconfig.json
+C:\Users\noam1\source\repos\HerDrink\HerDrink\bin\Debug\net8.0\HerDrink.dll
+C:\Users\noam1\source\repos\HerDrink\HerDrink\bin\Debug\net8.0\HerDrink.pdb
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\HerDrink.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\HerDrink.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\HerDrink.AssemblyInfo.cs
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\HerDrink.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\HerDrink.dll
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\refint\HerDrink.dll
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\HerDrink.pdb
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\HerDrink.genruntimeconfig.cache
+C:\Users\noam1\source\repos\HerDrink\HerDrink\obj\Debug\net8.0\ref\HerDrink.dll
