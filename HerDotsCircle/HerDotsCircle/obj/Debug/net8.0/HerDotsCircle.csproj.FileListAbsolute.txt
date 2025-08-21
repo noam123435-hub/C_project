@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\bin\Debug\net8.0\HerDotsCircle.exe
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\bin\Debug\net8.0\HerDotsCircle.deps.json
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\bin\Debug\net8.0\HerDotsCircle.runtimeconfig.json
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\bin\Debug\net8.0\HerDotsCircle.dll
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\bin\Debug\net8.0\HerDotsCircle.pdb
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\HerDotsCircle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\HerDotsCircle.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\HerDotsCircle.AssemblyInfo.cs
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\HerDotsCircle.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\HerDotsCircle.dll
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\refint\HerDotsCircle.dll
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\HerDotsCircle.pdb
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\HerDotsCircle.genruntimeconfig.cache
+C:\Users\noam1\source\repos\HerDotsCircle\HerDotsCircle\obj\Debug\net8.0\ref\HerDotsCircle.dll
