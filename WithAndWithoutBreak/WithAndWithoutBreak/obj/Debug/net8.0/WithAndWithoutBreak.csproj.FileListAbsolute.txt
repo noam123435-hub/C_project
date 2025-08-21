@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\bin\Debug\net8.0\WithAndWithoutBreak.exe
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\bin\Debug\net8.0\WithAndWithoutBreak.deps.json
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\bin\Debug\net8.0\WithAndWithoutBreak.runtimeconfig.json
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\bin\Debug\net8.0\WithAndWithoutBreak.dll
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\bin\Debug\net8.0\WithAndWithoutBreak.pdb
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\WithAndWithoutBreak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\WithAndWithoutBreak.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\WithAndWithoutBreak.AssemblyInfo.cs
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\WithAndWithoutBreak.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\WithAndWithoutBreak.dll
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\refint\WithAndWithoutBreak.dll
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\WithAndWithoutBreak.pdb
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\WithAndWithoutBreak.genruntimeconfig.cache
+C:\Users\noam1\source\repos\WithAndWithoutBreak\WithAndWithoutBreak\obj\Debug\net8.0\ref\WithAndWithoutBreak.dll

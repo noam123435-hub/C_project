@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ttt\ttt\bin\Debug\net8.0\ttt.exe
+C:\Users\noam1\source\repos\ttt\ttt\bin\Debug\net8.0\ttt.deps.json
+C:\Users\noam1\source\repos\ttt\ttt\bin\Debug\net8.0\ttt.runtimeconfig.json
+C:\Users\noam1\source\repos\ttt\ttt\bin\Debug\net8.0\ttt.dll
+C:\Users\noam1\source\repos\ttt\ttt\bin\Debug\net8.0\ttt.pdb
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ttt.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ttt.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ttt.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ttt.dll
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\refint\ttt.dll
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ttt.pdb
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ttt.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ttt\ttt\obj\Debug\net8.0\ref\ttt.dll

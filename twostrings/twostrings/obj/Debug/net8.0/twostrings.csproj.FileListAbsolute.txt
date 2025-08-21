@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\twostrings\twostrings\bin\Debug\net8.0\twostrings.exe
+C:\Users\noam1\source\repos\twostrings\twostrings\bin\Debug\net8.0\twostrings.deps.json
+C:\Users\noam1\source\repos\twostrings\twostrings\bin\Debug\net8.0\twostrings.runtimeconfig.json
+C:\Users\noam1\source\repos\twostrings\twostrings\bin\Debug\net8.0\twostrings.dll
+C:\Users\noam1\source\repos\twostrings\twostrings\bin\Debug\net8.0\twostrings.pdb
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\twostrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\twostrings.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\twostrings.AssemblyInfo.cs
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\twostrings.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\twostrings.dll
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\refint\twostrings.dll
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\twostrings.pdb
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\twostrings.genruntimeconfig.cache
+C:\Users\noam1\source\repos\twostrings\twostrings\obj\Debug\net8.0\ref\twostrings.dll
