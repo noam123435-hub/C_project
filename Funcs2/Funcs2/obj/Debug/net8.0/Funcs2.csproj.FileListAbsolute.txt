@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Funcs2\Funcs2\bin\Debug\net8.0\Funcs2.exe
+C:\Users\noam1\source\repos\Funcs2\Funcs2\bin\Debug\net8.0\Funcs2.deps.json
+C:\Users\noam1\source\repos\Funcs2\Funcs2\bin\Debug\net8.0\Funcs2.runtimeconfig.json
+C:\Users\noam1\source\repos\Funcs2\Funcs2\bin\Debug\net8.0\Funcs2.dll
+C:\Users\noam1\source\repos\Funcs2\Funcs2\bin\Debug\net8.0\Funcs2.pdb
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\Funcs2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\Funcs2.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\Funcs2.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\Funcs2.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\Funcs2.dll
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\refint\Funcs2.dll
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\Funcs2.pdb
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\Funcs2.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Funcs2\Funcs2\obj\Debug\net8.0\ref\Funcs2.dll

@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Funcs4\Funcs4\bin\Debug\net8.0\Funcs4.exe
+C:\Users\noam1\source\repos\Funcs4\Funcs4\bin\Debug\net8.0\Funcs4.deps.json
+C:\Users\noam1\source\repos\Funcs4\Funcs4\bin\Debug\net8.0\Funcs4.runtimeconfig.json
+C:\Users\noam1\source\repos\Funcs4\Funcs4\bin\Debug\net8.0\Funcs4.dll
+C:\Users\noam1\source\repos\Funcs4\Funcs4\bin\Debug\net8.0\Funcs4.pdb
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\Funcs4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\Funcs4.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\Funcs4.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\Funcs4.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\Funcs4.dll
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\refint\Funcs4.dll
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\Funcs4.pdb
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\Funcs4.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Funcs4\Funcs4\obj\Debug\net8.0\ref\Funcs4.dll
