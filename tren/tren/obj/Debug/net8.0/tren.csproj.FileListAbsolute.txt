@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\tren.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\tren.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\tren.AssemblyInfo.cs
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\tren.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\tren\tren\bin\Debug\net8.0\tren.exe
+C:\Users\noam1\source\repos\tren\tren\bin\Debug\net8.0\tren.deps.json
+C:\Users\noam1\source\repos\tren\tren\bin\Debug\net8.0\tren.runtimeconfig.json
+C:\Users\noam1\source\repos\tren\tren\bin\Debug\net8.0\tren.dll
+C:\Users\noam1\source\repos\tren\tren\bin\Debug\net8.0\tren.pdb
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\tren.dll
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\refint\tren.dll
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\tren.pdb
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\tren.genruntimeconfig.cache
+C:\Users\noam1\source\repos\tren\tren\obj\Debug\net8.0\ref\tren.dll

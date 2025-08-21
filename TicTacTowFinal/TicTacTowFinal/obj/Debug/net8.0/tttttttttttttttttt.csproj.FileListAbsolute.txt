@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\bin\Debug\net8.0\tttttttttttttttttt.exe
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\bin\Debug\net8.0\tttttttttttttttttt.deps.json
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\bin\Debug\net8.0\tttttttttttttttttt.runtimeconfig.json
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\bin\Debug\net8.0\tttttttttttttttttt.dll
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\bin\Debug\net8.0\tttttttttttttttttt.pdb
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\tttttttttttttttttt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\tttttttttttttttttt.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\tttttttttttttttttt.AssemblyInfo.cs
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\tttttttttttttttttt.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\tttttttttttttttttt.dll
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\refint\tttttttttttttttttt.dll
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\tttttttttttttttttt.pdb
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\tttttttttttttttttt.genruntimeconfig.cache
+C:\Users\noam1\source\repos\tttttttttttttttttt\tttttttttttttttttt\obj\Debug\net8.0\ref\tttttttttttttttttt.dll

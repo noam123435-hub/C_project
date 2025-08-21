@@ -1,0 +1,4 @@
+C:\Users\noam1\source\repos\TicTacTowTest\TicTacTowTest\obj\Debug\net8.0\TicTacTowTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\TicTacTowTest\TicTacTowTest\obj\Debug\net8.0\TicTacTowTest.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\TicTacTowTest\TicTacTowTest\obj\Debug\net8.0\TicTacTowTest.AssemblyInfo.cs
+C:\Users\noam1\source\repos\TicTacTowTest\TicTacTowTest\obj\Debug\net8.0\TicTacTowTest.csproj.CoreCompileInputs.cache

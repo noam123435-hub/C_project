@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.exe
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.deps.json
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.runtimeconfig.json
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.dll
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\bin\Debug\net8.0\TicTacTow.pdb
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.AssemblyInfo.cs
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.dll
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\refint\TicTacTow.dll
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.pdb
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\TicTacTow.genruntimeconfig.cache
+C:\Users\noam1\source\repos\TicTacTow\TicTacTow\obj\Debug\net8.0\ref\TicTacTow.dll
