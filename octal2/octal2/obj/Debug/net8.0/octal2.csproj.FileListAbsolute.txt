@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\octal2\octal2\bin\Debug\net8.0\octal2.exe
+C:\Users\noam1\source\repos\octal2\octal2\bin\Debug\net8.0\octal2.deps.json
+C:\Users\noam1\source\repos\octal2\octal2\bin\Debug\net8.0\octal2.runtimeconfig.json
+C:\Users\noam1\source\repos\octal2\octal2\bin\Debug\net8.0\octal2.dll
+C:\Users\noam1\source\repos\octal2\octal2\bin\Debug\net8.0\octal2.pdb
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\octal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\octal2.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\octal2.AssemblyInfo.cs
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\octal2.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\octal2.dll
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\refint\octal2.dll
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\octal2.pdb
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\octal2.genruntimeconfig.cache
+C:\Users\noam1\source\repos\octal2\octal2\obj\Debug\net8.0\ref\octal2.dll
