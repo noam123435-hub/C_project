@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\StringPractice\StringPractice\bin\Debug\net8.0\StringPractice.exe
+C:\Users\noam1\source\repos\StringPractice\StringPractice\bin\Debug\net8.0\StringPractice.deps.json
+C:\Users\noam1\source\repos\StringPractice\StringPractice\bin\Debug\net8.0\StringPractice.runtimeconfig.json
+C:\Users\noam1\source\repos\StringPractice\StringPractice\bin\Debug\net8.0\StringPractice.dll
+C:\Users\noam1\source\repos\StringPractice\StringPractice\bin\Debug\net8.0\StringPractice.pdb
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\StringPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\StringPractice.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\StringPractice.AssemblyInfo.cs
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\StringPractice.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\StringPractice.dll
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\refint\StringPractice.dll
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\StringPractice.pdb
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\StringPractice.genruntimeconfig.cache
+C:\Users\noam1\source\repos\StringPractice\StringPractice\obj\Debug\net8.0\ref\StringPractice.dll
