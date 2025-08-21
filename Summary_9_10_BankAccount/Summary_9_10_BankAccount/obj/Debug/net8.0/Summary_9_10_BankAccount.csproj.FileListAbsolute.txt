@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\bin\Debug\net8.0\Summary_9_10_BankAccount.exe
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\bin\Debug\net8.0\Summary_9_10_BankAccount.deps.json
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\bin\Debug\net8.0\Summary_9_10_BankAccount.runtimeconfig.json
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\bin\Debug\net8.0\Summary_9_10_BankAccount.dll
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\bin\Debug\net8.0\Summary_9_10_BankAccount.pdb
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\Summary_9_10_BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\Summary_9_10_BankAccount.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\Summary_9_10_BankAccount.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\Summary_9_10_BankAccount.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\Summary_9_10_BankAccount.dll
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\refint\Summary_9_10_BankAccount.dll
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\Summary_9_10_BankAccount.pdb
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\Summary_9_10_BankAccount.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Summary_9_10_BankAccount\Summary_9_10_BankAccount\obj\Debug\net8.0\ref\Summary_9_10_BankAccount.dll

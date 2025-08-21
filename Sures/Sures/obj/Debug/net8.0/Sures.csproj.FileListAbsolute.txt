@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Sures\Sures\bin\Debug\net8.0\Sures.exe
+C:\Users\noam1\source\repos\Sures\Sures\bin\Debug\net8.0\Sures.deps.json
+C:\Users\noam1\source\repos\Sures\Sures\bin\Debug\net8.0\Sures.runtimeconfig.json
+C:\Users\noam1\source\repos\Sures\Sures\bin\Debug\net8.0\Sures.dll
+C:\Users\noam1\source\repos\Sures\Sures\bin\Debug\net8.0\Sures.pdb
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\Sures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\Sures.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\Sures.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\Sures.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\Sures.dll
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\refint\Sures.dll
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\Sures.pdb
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\Sures.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Sures\Sures\obj\Debug\net8.0\ref\Sures.dll

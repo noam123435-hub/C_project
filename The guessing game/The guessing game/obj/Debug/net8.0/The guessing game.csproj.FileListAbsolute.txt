@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\The guessing game\The guessing game\bin\Debug\net8.0\The guessing game.exe
+C:\Users\noam1\source\repos\The guessing game\The guessing game\bin\Debug\net8.0\The guessing game.deps.json
+C:\Users\noam1\source\repos\The guessing game\The guessing game\bin\Debug\net8.0\The guessing game.runtimeconfig.json
+C:\Users\noam1\source\repos\The guessing game\The guessing game\bin\Debug\net8.0\The guessing game.dll
+C:\Users\noam1\source\repos\The guessing game\The guessing game\bin\Debug\net8.0\The guessing game.pdb
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\The guessing game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\The guessing game.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\The guessing game.AssemblyInfo.cs
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\The guessing game.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\The guessing game.dll
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\refint\The guessing game.dll
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\The guessing game.pdb
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\The guessing game.genruntimeconfig.cache
+C:\Users\noam1\source\repos\The guessing game\The guessing game\obj\Debug\net8.0\ref\The guessing game.dll
