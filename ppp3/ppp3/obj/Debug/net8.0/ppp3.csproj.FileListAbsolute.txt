@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ppp3\ppp3\bin\Debug\net8.0\ppp3.exe
+C:\Users\noam1\source\repos\ppp3\ppp3\bin\Debug\net8.0\ppp3.deps.json
+C:\Users\noam1\source\repos\ppp3\ppp3\bin\Debug\net8.0\ppp3.runtimeconfig.json
+C:\Users\noam1\source\repos\ppp3\ppp3\bin\Debug\net8.0\ppp3.dll
+C:\Users\noam1\source\repos\ppp3\ppp3\bin\Debug\net8.0\ppp3.pdb
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ppp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ppp3.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ppp3.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ppp3.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ppp3.dll
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\refint\ppp3.dll
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ppp3.pdb
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ppp3.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ppp3\ppp3\obj\Debug\net8.0\ref\ppp3.dll

@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\PPP2\PPP2\bin\Debug\net8.0\PPP2.exe
+C:\Users\noam1\source\repos\PPP2\PPP2\bin\Debug\net8.0\PPP2.deps.json
+C:\Users\noam1\source\repos\PPP2\PPP2\bin\Debug\net8.0\PPP2.runtimeconfig.json
+C:\Users\noam1\source\repos\PPP2\PPP2\bin\Debug\net8.0\PPP2.dll
+C:\Users\noam1\source\repos\PPP2\PPP2\bin\Debug\net8.0\PPP2.pdb
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\PPP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\PPP2.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\PPP2.AssemblyInfo.cs
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\PPP2.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\PPP2.dll
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\refint\PPP2.dll
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\PPP2.pdb
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\PPP2.genruntimeconfig.cache
+C:\Users\noam1\source\repos\PPP2\PPP2\obj\Debug\net8.0\ref\PPP2.dll

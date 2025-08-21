@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\PPP\PPP\bin\Debug\net8.0\PPP.exe
+C:\Users\noam1\source\repos\PPP\PPP\bin\Debug\net8.0\PPP.deps.json
+C:\Users\noam1\source\repos\PPP\PPP\bin\Debug\net8.0\PPP.runtimeconfig.json
+C:\Users\noam1\source\repos\PPP\PPP\bin\Debug\net8.0\PPP.dll
+C:\Users\noam1\source\repos\PPP\PPP\bin\Debug\net8.0\PPP.pdb
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\PPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\PPP.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\PPP.AssemblyInfo.cs
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\PPP.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\PPP.dll
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\refint\PPP.dll
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\PPP.pdb
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\PPP.genruntimeconfig.cache
+C:\Users\noam1\source\repos\PPP\PPP\obj\Debug\net8.0\ref\PPP.dll
