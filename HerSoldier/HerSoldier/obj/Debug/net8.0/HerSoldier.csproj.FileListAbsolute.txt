@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\bin\Debug\net8.0\HerSoldier.exe
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\bin\Debug\net8.0\HerSoldier.deps.json
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\bin\Debug\net8.0\HerSoldier.runtimeconfig.json
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\bin\Debug\net8.0\HerSoldier.dll
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\bin\Debug\net8.0\HerSoldier.pdb
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\HerSoldier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\HerSoldier.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\HerSoldier.AssemblyInfo.cs
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\HerSoldier.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\HerSoldier.dll
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\refint\HerSoldier.dll
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\HerSoldier.pdb
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\HerSoldier.genruntimeconfig.cache
+C:\Users\noam1\source\repos\HerSoldier\HerSoldier\obj\Debug\net8.0\ref\HerSoldier.dll
