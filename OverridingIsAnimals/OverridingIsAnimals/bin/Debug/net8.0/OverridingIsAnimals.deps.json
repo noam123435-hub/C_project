@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "OverridingIsAnimals/1.0.0": {
+        "runtime": {
+          "OverridingIsAnimals.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OverridingIsAnimals/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

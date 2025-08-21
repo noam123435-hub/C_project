@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\OverridingState\OverridingState\bin\Debug\net8.0\OverridingState.exe
+C:\Users\noam1\source\repos\OverridingState\OverridingState\bin\Debug\net8.0\OverridingState.deps.json
+C:\Users\noam1\source\repos\OverridingState\OverridingState\bin\Debug\net8.0\OverridingState.runtimeconfig.json
+C:\Users\noam1\source\repos\OverridingState\OverridingState\bin\Debug\net8.0\OverridingState.dll
+C:\Users\noam1\source\repos\OverridingState\OverridingState\bin\Debug\net8.0\OverridingState.pdb
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\OverridingState.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\OverridingState.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\OverridingState.AssemblyInfo.cs
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\OverridingState.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\OverridingState.dll
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\refint\OverridingState.dll
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\OverridingState.pdb
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\OverridingState.genruntimeconfig.cache
+C:\Users\noam1\source\repos\OverridingState\OverridingState\obj\Debug\net8.0\ref\OverridingState.dll

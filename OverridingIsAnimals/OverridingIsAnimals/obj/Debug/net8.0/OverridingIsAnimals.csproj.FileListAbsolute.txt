@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\OverridingIsAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\OverridingIsAnimals.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\OverridingIsAnimals.AssemblyInfo.cs
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\OverridingIsAnimals.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\bin\Debug\net8.0\OverridingIsAnimals.exe
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\bin\Debug\net8.0\OverridingIsAnimals.deps.json
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\bin\Debug\net8.0\OverridingIsAnimals.runtimeconfig.json
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\bin\Debug\net8.0\OverridingIsAnimals.dll
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\bin\Debug\net8.0\OverridingIsAnimals.pdb
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\OverridingIsAnimals.dll
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\refint\OverridingIsAnimals.dll
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\OverridingIsAnimals.pdb
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\OverridingIsAnimals.genruntimeconfig.cache
+C:\Users\noam1\source\repos\OverridingIsAnimals\OverridingIsAnimals\obj\Debug\net8.0\ref\OverridingIsAnimals.dll

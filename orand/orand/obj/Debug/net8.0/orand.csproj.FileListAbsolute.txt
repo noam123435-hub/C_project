@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\orand\orand\bin\Debug\net8.0\orand.exe
+C:\Users\noam1\source\repos\orand\orand\bin\Debug\net8.0\orand.deps.json
+C:\Users\noam1\source\repos\orand\orand\bin\Debug\net8.0\orand.runtimeconfig.json
+C:\Users\noam1\source\repos\orand\orand\bin\Debug\net8.0\orand.dll
+C:\Users\noam1\source\repos\orand\orand\bin\Debug\net8.0\orand.pdb
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\orand.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\orand.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\orand.AssemblyInfo.cs
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\orand.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\orand.dll
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\refint\orand.dll
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\orand.pdb
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\orand.genruntimeconfig.cache
+C:\Users\noam1\source\repos\orand\orand\obj\Debug\net8.0\ref\orand.dll
