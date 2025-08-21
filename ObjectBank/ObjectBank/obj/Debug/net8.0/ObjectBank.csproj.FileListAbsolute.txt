@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\bin\Debug\net8.0\ObjectBank.exe
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\bin\Debug\net8.0\ObjectBank.deps.json
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\bin\Debug\net8.0\ObjectBank.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\bin\Debug\net8.0\ObjectBank.dll
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\bin\Debug\net8.0\ObjectBank.pdb
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ObjectBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ObjectBank.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ObjectBank.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ObjectBank.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ObjectBank.dll
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\refint\ObjectBank.dll
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ObjectBank.pdb
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ObjectBank.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectBank\ObjectBank\obj\Debug\net8.0\ref\ObjectBank.dll
