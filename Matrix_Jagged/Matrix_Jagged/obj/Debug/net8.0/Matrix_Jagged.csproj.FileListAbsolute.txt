@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\bin\Debug\net8.0\Matrix_Jagged.exe
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\bin\Debug\net8.0\Matrix_Jagged.deps.json
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\bin\Debug\net8.0\Matrix_Jagged.runtimeconfig.json
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\bin\Debug\net8.0\Matrix_Jagged.dll
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\bin\Debug\net8.0\Matrix_Jagged.pdb
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\Matrix_Jagged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\Matrix_Jagged.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\Matrix_Jagged.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\Matrix_Jagged.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\Matrix_Jagged.dll
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\refint\Matrix_Jagged.dll
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\Matrix_Jagged.pdb
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\Matrix_Jagged.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Matrix_Jagged\Matrix_Jagged\obj\Debug\net8.0\ref\Matrix_Jagged.dll

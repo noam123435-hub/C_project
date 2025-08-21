@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\machrozet\machrozet\bin\Debug\net8.0\machrozet.exe
+C:\Users\noam1\source\repos\machrozet\machrozet\bin\Debug\net8.0\machrozet.deps.json
+C:\Users\noam1\source\repos\machrozet\machrozet\bin\Debug\net8.0\machrozet.runtimeconfig.json
+C:\Users\noam1\source\repos\machrozet\machrozet\bin\Debug\net8.0\machrozet.dll
+C:\Users\noam1\source\repos\machrozet\machrozet\bin\Debug\net8.0\machrozet.pdb
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\machrozet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\machrozet.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\machrozet.AssemblyInfo.cs
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\machrozet.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\machrozet.dll
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\refint\machrozet.dll
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\machrozet.pdb
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\machrozet.genruntimeconfig.cache
+C:\Users\noam1\source\repos\machrozet\machrozet\obj\Debug\net8.0\ref\machrozet.dll
