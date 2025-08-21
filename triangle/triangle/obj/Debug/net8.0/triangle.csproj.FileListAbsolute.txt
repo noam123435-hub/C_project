@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\triangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\triangle.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\triangle.AssemblyInfo.cs
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\triangle.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\triangle\triangle\bin\Debug\net8.0\triangle.exe
+C:\Users\noam1\source\repos\triangle\triangle\bin\Debug\net8.0\triangle.deps.json
+C:\Users\noam1\source\repos\triangle\triangle\bin\Debug\net8.0\triangle.runtimeconfig.json
+C:\Users\noam1\source\repos\triangle\triangle\bin\Debug\net8.0\triangle.dll
+C:\Users\noam1\source\repos\triangle\triangle\bin\Debug\net8.0\triangle.pdb
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\triangle.dll
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\refint\triangle.dll
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\triangle.pdb
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\triangle.genruntimeconfig.cache
+C:\Users\noam1\source\repos\triangle\triangle\obj\Debug\net8.0\ref\triangle.dll
