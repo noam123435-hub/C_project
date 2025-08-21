@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Hezka\Hezka\bin\Debug\net8.0\Hezka.exe
+C:\Users\noam1\source\repos\Hezka\Hezka\bin\Debug\net8.0\Hezka.deps.json
+C:\Users\noam1\source\repos\Hezka\Hezka\bin\Debug\net8.0\Hezka.runtimeconfig.json
+C:\Users\noam1\source\repos\Hezka\Hezka\bin\Debug\net8.0\Hezka.dll
+C:\Users\noam1\source\repos\Hezka\Hezka\bin\Debug\net8.0\Hezka.pdb
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\Hezka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\Hezka.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\Hezka.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\Hezka.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\Hezka.dll
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\refint\Hezka.dll
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\Hezka.pdb
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\Hezka.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Hezka\Hezka\obj\Debug\net8.0\ref\Hezka.dll
