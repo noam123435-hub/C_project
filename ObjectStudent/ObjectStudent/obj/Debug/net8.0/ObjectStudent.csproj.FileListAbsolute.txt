@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\bin\Debug\net8.0\ObjectStudent.exe
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\bin\Debug\net8.0\ObjectStudent.deps.json
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\bin\Debug\net8.0\ObjectStudent.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\bin\Debug\net8.0\ObjectStudent.dll
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\bin\Debug\net8.0\ObjectStudent.pdb
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ObjectStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ObjectStudent.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ObjectStudent.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ObjectStudent.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ObjectStudent.dll
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\refint\ObjectStudent.dll
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ObjectStudent.pdb
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ObjectStudent.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectStudent\ObjectStudent\obj\Debug\net8.0\ref\ObjectStudent.dll

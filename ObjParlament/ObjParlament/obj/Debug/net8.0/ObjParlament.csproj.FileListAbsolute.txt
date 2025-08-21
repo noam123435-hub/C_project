@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\bin\Debug\net8.0\ObjParlament.exe
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\bin\Debug\net8.0\ObjParlament.deps.json
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\bin\Debug\net8.0\ObjParlament.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\bin\Debug\net8.0\ObjParlament.dll
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\bin\Debug\net8.0\ObjParlament.pdb
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ObjParlament.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ObjParlament.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ObjParlament.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ObjParlament.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ObjParlament.dll
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\refint\ObjParlament.dll
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ObjParlament.pdb
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ObjParlament.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjParlament\ObjParlament\obj\Debug\net8.0\ref\ObjParlament.dll

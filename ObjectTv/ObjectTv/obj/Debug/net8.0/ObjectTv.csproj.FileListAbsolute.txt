@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\bin\Debug\net8.0\ObjectTv.exe
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\bin\Debug\net8.0\ObjectTv.deps.json
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\bin\Debug\net8.0\ObjectTv.runtimeconfig.json
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\bin\Debug\net8.0\ObjectTv.dll
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\bin\Debug\net8.0\ObjectTv.pdb
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ObjectTv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ObjectTv.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ObjectTv.AssemblyInfo.cs
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ObjectTv.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ObjectTv.dll
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\refint\ObjectTv.dll
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ObjectTv.pdb
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ObjectTv.genruntimeconfig.cache
+C:\Users\noam1\source\repos\ObjectTv\ObjectTv\obj\Debug\net8.0\ref\ObjectTv.dll
