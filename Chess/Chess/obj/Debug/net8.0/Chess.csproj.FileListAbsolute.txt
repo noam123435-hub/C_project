@@ -1,0 +1,14 @@
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\Chess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\Chess.AssemblyInfoInputs.cache
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\Chess.AssemblyInfo.cs
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\Chess.csproj.CoreCompileInputs.cache
+C:\Users\noam1\source\repos\Chess\Chess\bin\Debug\net8.0\Chess.exe
+C:\Users\noam1\source\repos\Chess\Chess\bin\Debug\net8.0\Chess.deps.json
+C:\Users\noam1\source\repos\Chess\Chess\bin\Debug\net8.0\Chess.runtimeconfig.json
+C:\Users\noam1\source\repos\Chess\Chess\bin\Debug\net8.0\Chess.dll
+C:\Users\noam1\source\repos\Chess\Chess\bin\Debug\net8.0\Chess.pdb
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\Chess.dll
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\refint\Chess.dll
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\Chess.pdb
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\Chess.genruntimeconfig.cache
+C:\Users\noam1\source\repos\Chess\Chess\obj\Debug\net8.0\ref\Chess.dll
